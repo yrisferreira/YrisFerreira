@@ -1,4 +1,4 @@
-### Olá, eu sou a Yris 👋
+### Hi, I'm Yris. 👋
 <div align="center">
   <a href="https://github.com/yrisferreira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yrisferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
