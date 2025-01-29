@@ -21,3 +21,28 @@
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 </div>
+## 
+<br>
+<table>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisValdesZero&theme=zenburn" alt="Profile Details">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisValdesZero&theme=zenburn" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisValdesZero&theme=zenburn" alt="Most Commit Language">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisValdesZero&theme=zenburn" alt="Stats">
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuisValdesZero&theme=zenburn&utcOffset=-3" alt="Productive Time Card">
+    </td>
+  </tr>
+</table>
