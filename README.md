@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Atualmente, trabalho com automação, focando em otimizar processos e aumentar a eficiência operacional. Estou sempre em busca de novas oportunidades para colaborar em projetos inovadores que envolvam tecnologia e automação. Minha experiência inclui a implementação de soluções automatizadas que melhoram a produtividade e reduzem custos.
+<br><br>Atualmente, trabalho com automação, focanda em otimizar processos e aumentar a eficiência operacional. Estou sempre em busca de novas oportunidades para colaborar em projetos inovadores que envolvam tecnologia e automação. Minha experiência inclui a implementação de soluções automatizadas que melhoram a produtividade e reduzem custos.
 
 
 ## 🌐 Socials:
