@@ -1,6 +1,5 @@
-# 💫 About Me:
-<br><br>Atualmente, trabalho com automação, focanda em otimizar processos e aumentar a eficiência operacional. Estou sempre em busca de novas oportunidades para colaborar em projetos inovadores que envolvam tecnologia e automação. Minha experiência inclui a implementação de soluções automatizadas que melhoram a produtividade e reduzem custos.
-
+# 💫 Hello:
+<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yris-ferreira-89b25123b/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yrissantoss_) 
