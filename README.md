@@ -13,3 +13,12 @@
   <a href="https://www.tiktok.com/@yrisferreira" target="_blank">🎥 TikTok</a> • 
   <img src="https://img.shields.io/badge/-Python-ffdce0?style=flat-square&logo=python&logoColor=ff69b4">
 </div>
+## 👩🏽‍💻 Ferramentas que uso com amor e eficiência:
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Uipath_Logo.png" alt="UiPath" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Automation_Anywhere_logo.svg" alt="Automation Anywhere" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/71849904?s=200&v=4" alt="BotCity" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40"/>
+</p>
+
