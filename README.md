@@ -1,20 +1,21 @@
-<p>
-  <img src="https://img.shields.io/badge/-Python-ffdce0?style=flat-square&logo=python&logoColor=ff69b4">
-  <img src="https://img.shields.io/badge/-UiPath-ffdce0?style=flat-square&logo=uipath&logoColor=ff69b4">
-  <img src="https://img.shields.io/badge/-Automation%20Anywhere-ffdce0?style=flat-square&logo=automationanywhere&logoColor=ff69b4">
-  <img src="https://img.shields.io/badge/-BotCity-ffdce0?style=flat-square&logoColor=ff69b4&logo=data:image/svg+xml;base64,">
+<h1 align="center">Olá, seja bem-vindo(a)! 💗</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300px" alt="gatinho programando"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-Python-ffdce0?style=flat-square&logo=python&logoColor=ff69b4"/>
+  <img src="https://img.shields.io/badge/-UiPath-ffdce0?style=flat-square&logo=uipath&logoColor=ff69b4"/>
+  <img src="https://img.shields.io/badge/-Automation%20Anywhere-ffdce0?style=flat-square&logoColor=ff69b4&logo=automationanywhere"/>
+  <img src="https://img.shields.io/badge/-BotCity-ffdce0?style=flat-square&logoColor=ff69b4&logo=botcity"/>
+</p>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gatinhos dançando" width="300px" />
+  🌸 Gosto de tecnologia, automação e de tornar processos mais eficientes.
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seuusuario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-ffdce0?style=flat-square&logo=linkedin&logoColor=ff69b4"/></a>
+  <a href="https://www.tiktok.com/@seuusuario" target="_blank"><img src="https://img.shields.io/badge/-TikTok-ffdce0?style=flat-square&logo=tiktok&logoColor=ff69b4"/></a>
 </p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yrisferreira" target="_blank">💼 LinkedIn</a> • 
-  <a href="https://www.tiktok.com/@yrisferreira" target="_blank">🎥 TikTok</a> • 
-</div>
-
-
-
