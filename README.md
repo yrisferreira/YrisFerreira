@@ -1,10 +1,6 @@
 <h1 align="center">Olá, seja bem-vindo(a)! 💗</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300px" alt="gatinho programando"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/-Python-ffdce0?style=flat-square&logo=python&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/-UiPath-ffdce0?style=flat-square&logo=uipath&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/-Automation%20Anywhere-ffdce0?style=flat-square&logoColor=ff69b4&logo=automationanywhere"/>
