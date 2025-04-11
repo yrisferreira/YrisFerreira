@@ -16,9 +16,9 @@
 ## 👩🏽‍💻 Ferramentas que uso com amor e eficiência:
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Uipath_Logo.png" alt="UiPath" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Automation_Anywhere_logo.svg" alt="Automation Anywhere" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/71849904?s=200&v=4" alt="BotCity" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/uipath.svg" alt="UiPath" width="90" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/automation-anywhere-1.svg" alt="Automation Anywhere" width="90" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/71849904?s=200&v=4" alt="BotCity" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
