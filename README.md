@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🌸 Gosto de tecnologia, automação e de tornar processos mais eficientes.
+  🌸 Gosto de tecnologia, automação e de tornar processos mais eficientes 🌸
 </p>
 
 <p align="center">
