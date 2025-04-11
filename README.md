@@ -1,4 +1,9 @@
-<h1 align="center">Olá 💖 </h1>
+<p>
+  <img src="https://img.shields.io/badge/-Python-ffdce0?style=flat-square&logo=python&logoColor=ff69b4">
+  <img src="https://img.shields.io/badge/-UiPath-ffdce0?style=flat-square&logo=uipath&logoColor=ff69b4">
+  <img src="https://img.shields.io/badge/-Automation%20Anywhere-ffdce0?style=flat-square&logo=automationanywhere&logoColor=ff69b4">
+  <img src="https://img.shields.io/badge/-BotCity-ffdce0?style=flat-square&logoColor=ff69b4&logo=data:image/svg+xml;base64,">
+</p>
 
 <p align="center">
 <p align="center">
@@ -11,11 +16,5 @@
   <a href="https://www.tiktok.com/@yrisferreira" target="_blank">🎥 TikTok</a> • 
 </div>
 
-<p>
-  <img src="https://img.shields.io/badge/-Python-ffdce0?style=flat-square&logo=python&logoColor=ff69b4">
-  <img src="https://img.shields.io/badge/-UiPath-ffdce0?style=flat-square&logo=uipath&logoColor=ff69b4">
-  <img src="https://img.shields.io/badge/-Automation%20Anywhere-ffdce0?style=flat-square&logo=automationanywhere&logoColor=ff69b4">
-  <img src="https://img.shields.io/badge/-BotCity-ffdce0?style=flat-square&logoColor=ff69b4&logo=data:image/svg+xml;base64,">
-</p>
 
 
