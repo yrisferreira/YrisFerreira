@@ -6,10 +6,6 @@
   <img src="https://img.shields.io/badge/-Automation%20Anywhere-ffdce0?style=flat-square&logoColor=ff69b4&logo=automationanywhere"/>
   <img src="https://img.shields.io/badge/-BotCity-ffdce0?style=flat-square&logoColor=ff69b4&logo=botcity"/>
 </p>
-![Snake animation](https://github.com/seunome/seunome/blob/output/github-contribution-grid-snake.svg)
-<p align="center">
-  <img src="https://your-fake-graph-url.com/cute-graph.png" alt="Meu gráfico estilizado de contribuições"/>
-</p>
 
 <p align="center">
   🌸 Gosto de tecnologia, automação e de tornar processos mais eficientes 🌸
