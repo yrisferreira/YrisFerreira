@@ -1,7 +1,7 @@
 <h1 align="center">Olá 💖 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f9hnhCpZfOSg7xO4x6/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gatinhos dançando" width="100%" style="border-radius: 16px;" />
 </p>
 
 <div align="center">
