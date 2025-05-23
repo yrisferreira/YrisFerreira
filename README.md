@@ -17,12 +17,6 @@
   <a href="https://instagram.com/seu-instagram" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80"/>
-</div>
-
-
 <div align="center">
   <a href="https://www.datadoghq.com/" target="_blank"><img src="https://img.shields.io/badge/-DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/></a>
   <a href="https://www.dynatrace.com/" target="_blank"><img src="https://img.shields.io/badge/-DYNATRACE-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white"/></a>
