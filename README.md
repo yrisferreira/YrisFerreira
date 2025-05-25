@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/yris-ferreira-89b25123b/)" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href = "mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/seu-instagram" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
