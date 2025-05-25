@@ -16,10 +16,4 @@
   <a href = "mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/seu-instagram" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
-
-<div align="center">
-  <a href="https://www.datadoghq.com/" target="_blank"><img src="https://img.shields.io/badge/-DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/></a>
-  <a href="https://www.dynatrace.com/" target="_blank"><img src="https://img.shields.io/badge/-DYNATRACE-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white"/></a>
-  <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/-GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white"/></a>
- <div
    
