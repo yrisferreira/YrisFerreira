@@ -21,3 +21,30 @@
 
 
  
+
+
+
+
+
+
+
+
+
+
+
+
+![HTML](https://img.shields.io/badge/HTML-f5c2e7?style=for-the-badge&logo=html5&logoColor=72243E)
+![CSS](https://img.shields.io/badge/CSS-cba6f7?style=for-the-badge&logo=css3&logoColor=3C3489)
+![JavaScript](https://img.shields.io/badge/JS-f9e2af?style=for-the-badge&logo=javascript&logoColor=633806)
+![React](https://img.shields.io/badge/React-89dceb?style=for-the-badge&logo=react&logoColor=085041)
+
+
+
+
+
+
+
+
+
+
+ 
